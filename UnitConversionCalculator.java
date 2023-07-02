@@ -17,7 +17,7 @@ public class UnitConversionCalculator {
     // Constructor
     public UnitConversionCalculator() {
         // Create the frame
-        JFrame frame = new JFrame("Unit Conversion Calculator");
+        JFrame frame = new JFrame("Transcale");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(400, 150);
 
